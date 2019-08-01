@@ -1,0 +1,33 @@
+
+
+body {
+    background-image:url('../images/laptop-w-coffee-cropped.jpg'); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 100%;
+    background-size: cover; 
+
+} 
+
+.wrapper {
+/* margin: auto; */
+  }
+
+
+/* Nav Begins */
+.nav-bar {
+    display: flex;
+    height: 100px;
+    flex-direction: row;
+    background-color: #111;
+    opacity: 0.5;
+
+}
+
+.navbar-child {
+    align-self: flex-end;
+}
+
+/* Nav Ends */
